@@ -4,5 +4,4 @@ Windows font manager for ZIP files, Google Fonts and DaFont.
 
 ## Download
 
-- `typest.app-Setup-1.0.0.exe` — installer (NSIS)
-- `typest.app 1.0.0.exe` — portable version
+See the [latest release](https://github.com/LuggaDEV/typest-release/releases/latest) — `typest.app-Setup-1.0.0.exe` (installer).
